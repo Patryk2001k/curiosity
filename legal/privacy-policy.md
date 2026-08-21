@@ -20,8 +20,8 @@ For any questions regarding data protection or the exercise of your rights:
 
 * **Vendor:** Curiosity
 * **Location:** European Union / Poland
-* **Support & Privacy Email:** support@curiosity-apps.com *(or your contact email)*
-* **Support Portal:** [Curiosity Support](/support/)
+* **Support & Privacy Email:** `curiosity@curiosity-support.atlassian.net`
+* **Support Portal:** [Curiosity Help Center](https://curiosity-support.atlassian.net/servicedesk/customer/portals)
 
 ---
 
@@ -30,7 +30,7 @@ Unlike traditional cloud add-ons, Curiosity Apps are built natively on the **Atl
 
 * **No Third-Party Analytics / Tracking:** We do not embed external tracking tools, telemetry services (e.g., Mixpanel, Google Analytics), or third-party error monitoring platforms (e.g., Sentry) that transmit data outside Atlassian.
 * **In-Browser Processing:** All attachment stream handling, binary reading, and ZIP packaging occur purely on the client side inside the end-user's web browser session via Atlassian Bridge APIs (`requestJira`).
-* **Tenant-Isolated Storage:** Configuration settings, user preferences, and virtual Trash Vault metadata are stored strictly in Atlassian Forge Key-Value Storage (`@forge/kvs`) within your own Atlassian Cloud instance.
+* **Tenant-Isolated Storage:** Configuration settings, user preferences, and virtual Trash Vault records are stored strictly in Atlassian Forge Key-Value Storage (`@forge/kvs`) within your own Atlassian Cloud instance.
 
 ---
 
@@ -73,4 +73,4 @@ As a data subject, you have the following rights:
 5. **Right to Data Portability (Art. 20 GDPR)**
 6. **Right to Object (Art. 21 GDPR)**
 
-To exercise any of these rights, contact us at `support@curiosity-apps.com`. You also have the right to lodge a complaint with a competent Data Protection Supervisory Authority (e.g., the President of the Personal Data Protection Office / UODO in Poland or your local European DPA) [6, 7].
+To exercise any of these rights, contact us at `curiosity@curiosity-support.atlassian.net`. You also have the right to lodge a complaint with a competent Data Protection Supervisory Authority (e.g., the President of the Personal Data Protection Office / UODO in Poland or your local European DPA).

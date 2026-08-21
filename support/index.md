@@ -6,8 +6,8 @@ Curiosity is committed to providing prompt, professional assistance for all appl
 
 ## Contact Channels
 
-* **Email Support:** `support@curiosity-apps.com` *(lub Twój adres e-mail)*
-* **Issue Tracker / Portal:** [Submit a Ticket via GitHub / Service Desk](https://github.com/)
+* **Official Support Email:** `curiosity@curiosity-support.atlassian.net`
+* **Customer Support Portal:** [Curiosity Help Center & Ticket Portal](https://curiosity-support.atlassian.net/servicedesk/customer/portals)
 * **Supported Products:** SBAM — Bulk Attachments for Jira (Download & Delete)
 
 ---

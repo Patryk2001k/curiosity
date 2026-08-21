@@ -1,4 +1,4 @@
-# End User License Agreement (EULA)
+# End User License Agreement (EULA) / Terms of Service
 
 **Effective Date:** January 1, 2026  
 **Vendor:** Curiosity ("Company", "we", "us", or "our")  
@@ -35,7 +35,7 @@ You shall not:
 
 ## 4. Maintenance, Support, and SLAs
 * Maintenance updates, bug fixes, and compatibility patches are provided throughout active subscription terms.
-* Technical support is delivered in English via email and our official [Support Portal](/support/) in accordance with our published Service Level Agreement.
+* Technical support is delivered in English via email (`curiosity@curiosity-support.atlassian.net`) and our official [Support Portal](https://curiosity-support.atlassian.net/servicedesk/customer/portals) in accordance with our published Service Level Agreement.
 * Support does not cover custom Jira workflow scripting, environmental network configurations, or third-party plugins.
 
 ---
@@ -58,7 +58,7 @@ All billing, payments, subscription tiers, renewals, taxes, and refunds are proc
 ---
 
 ## 8. Customer Reference
-Curiosity may identify you as a customer in promotional materials or on our website. You may opt out of this reference at any time by sending a written notice to `support@curiosity.com`.
+Curiosity may identify you as a customer in promotional materials or on our website. You may opt out of this reference at any time by sending a written notice to `curiosity@curiosity-support.atlassian.net`.
 
 ---
 
