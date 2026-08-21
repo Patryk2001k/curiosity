@@ -5,7 +5,6 @@ export default defineConfig({
   description: 'Enterprise Cloud Apps for Atlassian Jira',
   base: '/curiosity/',
   cleanUrls: true,
-  lastUpdated: true,
 
   themeConfig: {
     siteTitle: 'Curiosity Apps',
