@@ -6,7 +6,14 @@ export default defineConfig({
   base: '/curiosity/',
   cleanUrls: true,
 
+head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/curiosity/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/curiosity/logo32.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/curiosity/logo.png' }]
+  ],
+
   themeConfig: {
+    logo: '/logo.svg',
     siteTitle: 'Curiosity Apps',
     nav: [
       { text: 'Home', link: '/' },

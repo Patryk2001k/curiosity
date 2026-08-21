@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Curiosity
+  name: "<span class='curiosity-yellow-c'>C</span>uriosity"
   text: Enterprise Cloud Apps for Atlassian Jira
   tagline: Cloud-native, zero-egress productivity solutions engineered on Atlassian Forge.
   actions:
