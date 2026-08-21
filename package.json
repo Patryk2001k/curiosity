@@ -1,0 +1,18 @@
+{
+  "name": "curiosity-docs",
+  "version": "1.0.0",
+  "description": "Official documentation, privacy policies, and support portal for Curiosity apps on Atlassian Marketplace",
+  "author": "Curiosity",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.44"
+  },
+  "allowScripts": {
+    "esbuild@0.21.5": true
+  }
+}
