@@ -22,12 +22,14 @@ export default defineConfig({
     ],
 
     sidebar: {
-      '/apps/sbam/': [
+'/apps/sbam/': [
         {
-          text: 'SBAM — Bulk Attachments',
+          text: 'SBAM User Guide',
           items: [
             { text: 'Overview & Quick Start', link: '/apps/sbam/' },
-            { text: 'Features & Architecture', link: '/apps/sbam/features' }
+            { text: 'Complete User Guide', link: '/apps/sbam/features' },
+            { text: 'Administrator Guide', link: '/apps/sbam/admin-guide' },
+            { text: 'FAQ & Troubleshooting', link: '/apps/sbam/faq' }
           ]
         },
         {
@@ -39,27 +41,10 @@ export default defineConfig({
           ]
         }
       ],
-      '/legal/': [
-        {
-          text: 'Legal Information',
-          items: [
-            { text: 'Privacy Policy', link: '/legal/privacy-policy' },
-            { text: 'Terms of Service (EULA)', link: '/legal/terms-of-service' }
-          ]
-        }
-      ],
-      '/support/': [
-        {
-          text: 'Support',
-          items: [
-            { text: 'Contact & SLA Policy', link: '/support/' }
-          ]
-        }
-      ]
     },
 
     footer: {
-      message: 'Published on Atlassian Marketplace by Curiosity.',
+      message: 'Published by Curiosity.',
       copyright: 'Copyright © 2026 Curiosity. All rights reserved.'
     }
   }
