@@ -23,7 +23,8 @@ head: [
         text: 'Legal',
         items: [
           { text: 'Privacy Policy', link: '/legal/privacy-policy' },
-          { text: 'Terms of Service (EULA)', link: '/legal/terms-of-service' }
+          { text: 'Terms of Service (EULA)', link: '/legal/terms-of-service' },
+          { text: 'Security Policy', link: '/legal/security-policy' },
         ]
       }
     ],
@@ -45,6 +46,7 @@ head: [
             { text: 'Support & SLA', link: '/support/' },
             { text: 'Privacy Policy', link: '/legal/privacy-policy' },
             { text: 'Terms of Service', link: '/legal/terms-of-service' }
+            { text: 'Security Policy', link: '/legal/security-policy' },
           ]
         }
       ],
