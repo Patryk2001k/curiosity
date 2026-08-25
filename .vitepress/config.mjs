@@ -45,7 +45,7 @@ head: [
           items: [
             { text: 'Support & SLA', link: '/support/' },
             { text: 'Privacy Policy', link: '/legal/privacy-policy' },
-            { text: 'Terms of Service', link: '/legal/terms-of-service' }
+            { text: 'Terms of Service', link: '/legal/terms-of-service' },
             { text: 'Security Policy', link: '/legal/security-policy' },
           ]
         }
